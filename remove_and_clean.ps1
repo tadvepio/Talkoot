@@ -1,0 +1,2 @@
+Write "Hello"
+Write "Tapio"
